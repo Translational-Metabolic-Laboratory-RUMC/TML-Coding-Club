@@ -1,5 +1,3 @@
-# TML Coding Club
-
 ![](TML-Coding-Club_Banner.png)
 
 The **Translational Metabolic Laboratory (TML) Coding Club** is a peer-to-peer learning community built for TML colleagues. A coding club is a fun way to learn the basics of computer programming, gain problem solving and logical thinking skills and help each other along the way. The TML Coding Club is for everyone, regardless of their career stage or current level of knowledge. 
