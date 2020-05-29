@@ -8,6 +8,8 @@ Postdoctoral researcher (Bioinformatics)<br/>
 Email: purva.kulkarni@radboudumc.nl<br/>
 Please feel free to send your comments or suggestions to improve this activities planned by the coding club.
 
+For communication, help we can use the [tml slack workspace](tml-department.slack.com). All conversations as a part of the coding club will happen in the dedicated channel **# tml-coding-club**
+
 ## Agenda ##
 
 | Session |     Date    |      Time     | Topic                                      |
